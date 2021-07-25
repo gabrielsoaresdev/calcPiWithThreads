@@ -11,7 +11,7 @@ $ go run main.go
 
 ### Resultados
 #### 1 THREAD
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 1
 Valores - Valores - ( Pi / Tempo de execução ):  [
@@ -24,9 +24,9 @@ Valores - Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  99013
 Desvio padrão: 963.54
 Coeficiente de variação: 0.9731 %
-
+```
 #### 2 THREADS 
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 2
 Valores - Valores - ( Pi / Tempo de execução ):  [
@@ -39,9 +39,9 @@ Valores - Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  58743
 Desvio padrão: 701.67
 Coeficiente de variação: 1.1945 %
-
+```
 #### 4 THREADS 
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 4
 Valores - Valores - ( Pi / Tempo de execução ):  [
@@ -54,9 +54,9 @@ Valores - Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  39912
 Desvio padrão: 1428.96
 Coeficiente de variação: 3.5803 %
-
+```
 #### 8 THREADS 
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 8
 Valores - ( Pi / Tempo de execução ):  [
@@ -69,9 +69,9 @@ Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  29523
 Desvio padrão: 1144.19
 Coeficiente de variação: 3.8756 %
-
+```
 #### 16 THREADS 
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 32
 Valores - ( Pi / Tempo de execução ):  [
@@ -84,9 +84,9 @@ Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  29565
 Desvio padrão: 1127.49
 Coeficiente de variação: 3.8136 %
-
+```
 #### 32 THREADS
-
+```
 Digite a quantidade de termos: 1000000000
 Digite a quantidade de threads: 32
 Valores - ( Pi / Tempo de execução ):  [
@@ -99,3 +99,4 @@ Valores - ( Pi / Tempo de execução ):  [
 Duração média (ms):  29565
 Desvio padrão: 1127.49
 Coeficiente de variação: 3.8136 %
+```
