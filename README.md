@@ -81,9 +81,9 @@ Valores - ( Pi / Tempo de execução ):  [
     {3.141592652590108 30.2456789s}
     {3.141592652590108 30.3531532s}
 ]
-Duração média (ms):  29565
-Desvio padrão: 1127.49
-Coeficiente de variação: 3.8136 %
+Duração média (ms):  29576
+Desvio padrão: 1130.42
+Coeficiente de variação: 3.8222 %
 ```
 #### 32 THREADS
 ```
